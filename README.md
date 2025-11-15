@@ -39,7 +39,7 @@ Internet connection for activation
 Clone Repository
 
 bash
-git clone https://github.com/strawhatdev01/strawhat-a12-bypass.git
+git clone [https://github.com/strawhatdev01/strawhat-a12-bypass.git](https://github.com/strawhatdev01/A12Bypass.git)
 cd strawhat-a12-bypass
 Install Dependencies
 
