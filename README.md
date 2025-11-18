@@ -116,8 +116,8 @@ Users are responsible for complying with local laws and regulations.
 📞 Support
 Telegram: @strawhatdev01
 
-Donations: TRC20: TQYQxg2986vV8BLucPQWz8HyxVqpozh1Qe
-            Binanceid: 429618858
+Donations: TRC20: THm2dyDUPK5mximug15Fj3zWNED1wY8ZkR
+            Binanceid: 1185561545
 
 🏴‍☠️ About
 Developed by strawhat development team for advanced iOS device research and recovery solutions.
